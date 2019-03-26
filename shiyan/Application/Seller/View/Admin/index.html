@@ -1,0 +1,89 @@
+<include file="Public/min-header" />
+<!-- 这个页面是按照优惠劵列表修改的 -->
+<div class="wrapper">
+	<!-- <include file="Public/breadcrumb"/> -->
+	<section class="content" style="padding: 0px;">
+		<div class="row" style="padding: 0px;">
+			<div class="col-xs-12">
+				<div class="panel panel-default">
+					<!-- 添加返回按钮       -->
+					<div class="pull-right">
+						<a href="javascript:history.go(-1)" data-toggle="tooltip" title="" class="btn btn-default" style="padding-top: 10px;"
+						 data-original-title="返回"><i class="fa fa-reply"></i>返回</a>
+					</div>
+					<!-- 添加返回结束 -->
+					<div class="panel-heading">
+						<h3 class="panel-title">账号管理</h3>
+					</div>
+					<div class="panel-body" style="padding-bottom: 0px">
+						<!-- <nav class="navbar navbar-default">
+							<div class="collapse navbar-collapse">
+								<form class="navbar-form form-inline" action="{:U('Admin/index')}" method="post">
+									<div class="form-group">
+										<input type="text" name="keywords" class="form-control" placeholder="搜索">
+									</div>
+									<button type="submit" class="btn btn-default">提交</button> -->
+									<div class="form-group pull-right">
+									    <a href="{:U('Admin/admin_info')}" class="btn btn-primary pull-right"><i class="fa fa-plus"></i>添加管理员</a>
+									</div>	
+								</form>
+					</div>
+					<div id="ajax_return">
+						<div class="table-responsive">
+							<table class="table table-bordered table-hover">
+								<thead>
+									<tr>
+										<td style="width: 1px;" class="text-center"><input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);"></td>
+										<td class="text-center">ID</td>
+										<td class="text-center">账号名</td>
+										<td class="text-center">所属角色</td>
+										<td class="text-center">加入时间</td>
+										<!-- <td class="text-center">发放总量</td> -->
+										<td class="text-center">状态</td>
+										<!-- <td class="text-center">已使用</td>
+                                    <td class="text-center">使用截止日期</td> -->
+										<td class="text-center">操作</td>
+									</tr>
+								</thead>
+								<tbody>
+									<!-- <volist name="lists" id="list"> -->
+									<foreach name="list" item="vo" key="k">
+										<tr>
+											<td class="text-center">
+												<input type="checkbox" name="selected[]" value="6">
+											</td>
+											<td class="text-center">{$vo.seller_id}</td>
+											<td class="text-center">{$vo.seller_name}</td>
+											<td class="text-center">{$vo.role}</td>
+											<td class="text-center">{$vo.add_time}</td>
+											<td class="text-center">{$vo.enabled}</td>
+											<!-- <td class="text-center">{$list.send_num}</td>
+                                        <td class="text-center">{$list.use_num}</td>
+                                        <td class="text-center">{$list.use_end_time|date='Y-m-d',###}</td> -->
+											<td class="text-center">
+												<a class="btn btn-primary" href="{:U('Admin/admin_info',array('seller_id'=>$vo['seller_id']))}"><i class="fa fa-pencil"></i></a>
+												<if condition="$vo['admin_id'] gt 1">
+												<a class="btn btn-danger" href="javascript:void(0)" data-url="{:U('Admin/adminHandle')}" data-id="{$vo.admin_id}" onclick="delfun(this)"><i
+													 class="fa fa-trash-o"></i></a>
+													 </if>
+											</td>
+										</tr>
+									</foreach>
+								</tbody>
+							</table>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 text-left"></div>
+						<div class="col-sm-6 text-right">{$page}</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div> <!-- /.row -->
+</section>
+<!-- /.content -->
+</div>
+
+</body>
+</html>

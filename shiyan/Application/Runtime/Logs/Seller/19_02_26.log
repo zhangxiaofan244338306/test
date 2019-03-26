@@ -1,0 +1,8 @@
+[ 2019-02-26T13:57:34+08:00 ] 117.136.8.106 /index.php?m=Seller&c=Admin&a=login&t=0.16343821986741647
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [2] file_get_contents(/www/wwwroot/wanplmsh/shiyan//Application/Admin/Conf/version.txt): failed to open stream: No such file or directory /www/wwwroot/wanplmsh/shiyan/Application/Admin/Logic/UpgradeLogic.class.php 第 22 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 40 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 41 行.
+

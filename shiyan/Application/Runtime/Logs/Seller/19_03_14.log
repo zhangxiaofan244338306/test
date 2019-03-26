@@ -1,0 +1,48 @@
+[ 2019-03-14T09:08:11+08:00 ] 10.111.23.15 /index.php?m=Seller&c=Admin&a=login&t=0.08713069876900992
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 43 行.
+ERR: 1364:Field 'log_state' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `ty_seller_log` (`log_time`,`log_seller_id`,`log_seller_name`,`log_content`,`log_seller_ip`,`log_store_id`,`log_url`) VALUES ('1552525691','1','13100001234','商家管理中心登录','10.111.23.15','1','/index.php/Seller/Admin/login')
+
+[ 2019-03-14T09:09:33+08:00 ] 10.111.23.15 /index.php?m=Seller&c=goods&a=ajaxGoodsList&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: seller/goods D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/goods D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Use of undefined constant cat_id1 - assumed 'cat_id1' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 51 行.
+NOTIC: [2] Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 51 行.
+NOTIC: [2] Use of undefined constant is_on_sale - assumed 'is_on_sale' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 54 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 63 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 64 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 65 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 66 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 71 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 72 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 73 行.
+NOTIC: [2] Use of undefined constant cat_id1 - assumed 'cat_id1' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 51 行.
+NOTIC: [2] Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 51 行.
+NOTIC: [2] Use of undefined constant is_on_sale - assumed 'is_on_sale' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 54 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 63 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 64 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 65 行.
+NOTIC: [2] Use of undefined constant goods_state - assumed 'goods_state' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 66 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 71 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 72 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Seller\d32a08fbc23e53ce8725c68343aacf3d.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

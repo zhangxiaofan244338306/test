@@ -1,0 +1,54 @@
+[ 2019-02-27T09:14:45+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Admin&a=login&t=0.4789250311091091
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [2] file_get_contents(/www/wwwroot/wanplmsh/shiyan//Application/Admin/Conf/version.txt): failed to open stream: No such file or directory /www/wwwroot/wanplmsh/shiyan/Application/Admin/Logic/UpgradeLogic.class.php 第 22 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 40 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 41 行.
+
+[ 2019-02-27T11:27:30+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/flash_sale.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/flash_sale.html
+
+[ 2019-02-27T13:20:08+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/flash_sale_info.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/flash_sale_info.html
+
+[ 2019-02-27T13:26:37+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T13:27:16+08:00 ] 223.104.210.212 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T13:50:02+08:00 ] 223.104.210.212 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T14:06:42+08:00 ] 223.104.210.212 /index.php?m=Seller&c=Admin&a=login&t=0.3074834250587728
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 43 行.
+
+[ 2019-02-27T14:09:22+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T14:21:27+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T14:22:49+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T16:05:28+08:00 ] 223.104.210.212 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T16:06:19+08:00 ] 223.104.210.212 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T17:23:01+08:00 ] 140.207.74.250 /index.php/Seller/Index/dingdan.html
+ERR: 模板不存在:./Application/Seller/View/Index/dingdan.html
+
+[ 2019-02-27T17:23:23+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-27T17:36:20+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+

@@ -1,0 +1,157 @@
+[ 2019-01-23T09:19:12+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2019-01-23T09:28:59+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-01-23T09:53:06+08:00 ] 140.207.74.250 /index.php?m=Home&c=Activity&a=group_list
+ERR: 无法加载控制器:Activity
+
+[ 2019-01-23T14:46:36+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2019-01-23T14:47:03+08:00 ] 180.163.220.5 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2019-01-23T14:47:47+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2019-01-23T15:32:02+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2019-01-23T16:10:54+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+

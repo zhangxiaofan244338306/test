@@ -1,0 +1,1320 @@
+[ 2019-01-24T15:04:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.158009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.158009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+
+[ 2019-01-24T15:04:52+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T15:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2019-01-24T15:05:07+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2019-01-24T15:05:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T15:05:45+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2019-01-24T15:05:47+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2019-01-24T15:34:34+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2019-01-24T15:34:36+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2019-01-24T15:34:45+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2019-01-24T15:34:47+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2019-01-24T15:51:27+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2019-01-24T15:51:29+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2019-01-24T16:01:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2019-01-24T16:01:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2019-01-24T16:04:47+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.19456332749051897
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+
+[ 2019-01-24T16:05:47+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.6119968563257325
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+
+[ 2019-01-24T16:05:55+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=76
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T16:05:56+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=69
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2019-01-24T16:05:57+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=47
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2019-01-24T16:05:59+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=24
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2019-01-24T16:06:30+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2019-01-24T16:06:31+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2019-01-24T16:06:41+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=75
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T16:06:50+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.3096377559944592
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+
+[ 2019-01-24T16:07:15+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.12965885203647187
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+
+[ 2019-01-24T16:07:19+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=25
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2019-01-24T16:07:20+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T16:07:23+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=89
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2019-01-24T16:07:32+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.09262721507636296
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 51 行.
+
+[ 2019-01-24T16:25:47+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T16:25:49+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] Undefined index: vertify F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T16:26:07+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.4867500498534951
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Undefined index: login F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T16:26:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2019-01-24T16:26:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.079005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.079005s ]
+
+[ 2019-01-24T16:26:13+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2019-01-24T16:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_grade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2019-01-24T16:26:47+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_class
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2019-01-24T16:26:52+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_grade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016000s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2019-01-24T16:28:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2019-01-24T16:28:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.025002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025002s ]
+
+[ 2019-01-24T16:28:19+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2019-01-24T16:30:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2019-01-24T16:30:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2019-01-24T16:30:58+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T16:42:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2019-01-24T16:42:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2019-01-24T16:42:55+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2019-01-24T17:22:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T17:22:26+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T17:22:28+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2019-01-24T17:26:57+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.165009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T17:27:03+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_class
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T17:27:13+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_own_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\9340657edec797d438aaa0a2d53ed42c.php 第 95 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\9340657edec797d438aaa0a2d53ed42c.php 第 95 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\9340657edec797d438aaa0a2d53ed42c.php 第 95 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.190011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.190011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2019-01-24T17:27:15+08:00 ] 127.0.0.1 /index.php/Admin/Store/apply_class_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 352 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 353 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 352 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 353 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: page F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\6c7679f1c49ebc90aed319af91d36913.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.195011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.195011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T17:27:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T17:27:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2019-01-24T17:27:20+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2019-01-24T17:27:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/categoryList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 123 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 125 行.
+NOTIC: [8] Undefined index: have_son F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 126 行.
+NOTIC: [8] Use of undefined constant type_id - assumed 'type_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 129 行.
+NOTIC: [8] Use of undefined constant is_hot - assumed 'is_hot' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 131 行.
+NOTIC: [8] Use of undefined constant is_show - assumed 'is_show' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\83974538ecda025b39358b0db8629987.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.141008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2019-01-24T17:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T17:27:47+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_class_info/store_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 385 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 386 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 145 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+NOTIC: [8] Undefined variable: level_cat F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\d9ac557d494282da092955f45e2e19ce.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.139008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-01-24T17:27:55+08:00 ] 127.0.0.1 /index.php/Admin/Store/store_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Undefined variable: pid F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 114 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+NOTIC: [8] Use of undefined constant grade_id - assumed 'grade_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 167 行.
+NOTIC: [8] Use of undefined constant sc_id - assumed 'sc_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 168 行.
+NOTIC: [8] Use of undefined constant store_state - assumed 'store_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 170 行.
+NOTIC: [8] Use of undefined constant store_recommend - assumed 'store_recommend' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18e672ab47455c17877a783eee2aeab6.php 第 171 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021001s ]
+
+[ 2019-01-24T17:27:58+08:00 ] 127.0.0.1 /index.php/Admin/Store/apply_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: sg_id F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4ed4a576126241fa45d7709f9e076116.php 第 111 行.
+NOTIC: [8] Undefined variable: sg_id F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4ed4a576126241fa45d7709f9e076116.php 第 111 行.
+NOTIC: [8] Undefined variable: sg_id F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4ed4a576126241fa45d7709f9e076116.php 第 111 行.
+NOTIC: [8] Undefined index: store_address F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4ed4a576126241fa45d7709f9e076116.php 第 156 行.
+NOTIC: [8] Use of undefined constant apply_state - assumed 'apply_state' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4ed4a576126241fa45d7709f9e076116.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2019-01-24T17:28:02+08:00 ] 127.0.0.1 /index.php/Admin/Store/reopen_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: bind_class F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4af8246b20acddf9281468a66864e9c6.php 第 155 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\4af8246b20acddf9281468a66864e9c6.php 第 180 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.137008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2019-01-24T17:28:05+08:00 ] 127.0.0.1 /index.php/Admin/Store/apply_class_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 40 行.
+NOTIC: [8] Undefined index: admin/store F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 352 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 353 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 352 行.
+NOTIC: [8] Undefined offset: 0 F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\StoreController.class.php 第 353 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\6c7679f1c49ebc90aed319af91d36913.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2019-01-24T17:28:36+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18bc66a7b6334412ab8e61a2539ecfbd.php 第 152 行.
+NOTIC: [8] Undefined index: user_id F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\18bc66a7b6334412ab8e61a2539ecfbd.php 第 152 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2019-01-24T17:28:38+08:00 ] 127.0.0.1 /index.php/Admin/order/ajaxindex/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Undefined index: ajaxindex F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Order/delivery_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2019-01-24T17:28:46+08:00 ] 127.0.0.1 /index.php/Admin/order/ajaxdelivery/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] Undefined index: ajaxdelivery F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:28:51+08:00 ] 127.0.0.1 /index.php/Admin/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2019-01-24T17:28:53+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxindex/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Undefined index: ajaxindex F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:28:54+08:00 ] 127.0.0.1 /index.php/Admin/User/ruzhu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: ruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.180011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.181011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2019-01-24T17:28:56+08:00 ] 127.0.0.1 /index.php/Admin/User/ruzhu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: ruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T17:28:57+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxruzhu/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013000s ]
+NOTIC: [8] Undefined index: ajaxruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:28:59+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxruzhu/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] Undefined index: ajaxruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:29:00+08:00 ] 127.0.0.1 /index.php/Admin/User/ruzhu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: ruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2019-01-24T17:29:02+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxruzhu/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: ajaxruzhu F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:29:09+08:00 ] 127.0.0.1 /index.php/Admin/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T17:29:10+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxindex/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Undefined index: ajaxindex F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+
+[ 2019-01-24T17:55:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2019-01-24T17:55:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: welcome F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [8] Undefined index: version F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2019-01-24T17:55:50+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8] Undefined index: login_task F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Common\function.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2019-01-24T17:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Report/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2] Division by zero F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Admin\Controller\ReportController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2019-01-24T17:56:15+08:00 ] 127.0.0.1 /index.php/Admin/Report/saleTop
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page F:\phpStudy\PHPTutorial\WWW\shiyan\Application\Runtime\Cache\Admin\1c7f6ad5c6e298278a58ab734f61bb63.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+

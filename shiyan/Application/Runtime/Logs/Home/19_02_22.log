@@ -1,0 +1,1049 @@
+[ 2019-02-22T09:11:15+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2019-02-22T09:13:20+08:00 ] 61.151.178.172 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-02-22T09:15:37+08:00 ] 223.104.5.200 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-02-22T09:16:40+08:00 ] 61.158.147.188 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2019-02-22T09:17:39+08:00 ] 61.158.147.188 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2019-02-22T09:17:43+08:00 ] 61.158.147.188 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2019-02-22T09:17:48+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2019-02-22T09:18:12+08:00 ] 61.158.147.188 /index.php/Home/Addapply/ui/cnzz_xj.html?visitDstTime=1
+ERR: 非法操作:ui
+
+[ 2019-02-22T09:18:13+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-02-22T09:19:25+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=2&parent_id=636
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2019-02-22T09:20:09+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2019-02-22T09:20:11+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2019-02-22T09:20:19+08:00 ] 180.97.35.91 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2019-02-22T09:20:41+08:00 ] 61.158.147.188 /index.php/Home/Newjoin/basic_info.html
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:21:14+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/check_store.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:21:19+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/check_seller.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:21:23+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-02-22T09:21:25+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/check_store.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:23:24+08:00 ] 115.239.212.195 /index.php/Home/Newjoin/basic_info.html
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:25:27+08:00 ] 61.158.147.188 /index.php/Home/Newjoin/check_store.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:25:36+08:00 ] 61.158.147.188 /index.php/Home/Newjoin/check_seller.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:25:52+08:00 ] 61.158.147.188 /index.php/Home/Newjoin/check_seller.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:26:36+08:00 ] 61.158.147.188 /index.php/Home/Api/get_category.html?parent_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 54 行.
+
+[ 2019-02-22T09:26:38+08:00 ] 61.158.147.188 /index.php/Home/Api/get_cates.html?parent_id=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 65 行.
+
+[ 2019-02-22T09:27:21+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=2&parent_id=4670
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2019-02-22T09:29:11+08:00 ] 61.158.147.188 /index.php/Home/Addapply/ui/cnzz_xj.html?visitDstTime=1
+ERR: 非法操作:ui
+
+[ 2019-02-22T09:29:12+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2019-02-22T09:29:30+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2019-02-22T09:29:37+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/check_store.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:29:40+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/check_seller.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T09:30:01+08:00 ] 140.207.74.250 /index.php/Home/Api/get_category.html?parent_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 54 行.
+
+[ 2019-02-22T09:30:03+08:00 ] 140.207.74.250 /index.php/Home/Api/get_cates.html?parent_id=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 65 行.
+
+[ 2019-02-22T10:19:07+08:00 ] 223.104.5.200 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 21 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 26 行.
+NOTIC: [8] Use of undefined constant goods_name - assumed 'goods_name' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 27 行.
+NOTIC: [8] Use of undefined constant goods_num - assumed 'goods_num' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 30 行.
+NOTIC: [8] Use of undefined constant member_goods_price - assumed 'member_goods_price' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 32 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 21 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 26 行.
+NOTIC: [8] Use of undefined constant goods_name - assumed 'goods_name' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 27 行.
+NOTIC: [8] Use of undefined constant goods_num - assumed 'goods_num' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 30 行.
+NOTIC: [8] Use of undefined constant member_goods_price - assumed 'member_goods_price' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 32 行.
+NOTIC: [8] Use of undefined constant num - assumed 'num' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 44 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 48 行.
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2019-02-22T10:19:14+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2019-02-22T10:19:26+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T10:20:24+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T10:28:49+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-02-22T10:34:41+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-02-22T10:36:53+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2019-02-22T10:36:55+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2019-02-22T10:38:21+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-02-22T10:39:59+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-02-22T10:41:22+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-02-22T10:42:02+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-02-22T10:43:35+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-02-22T10:43:51+08:00 ] 61.158.147.188 /index.php/Home/Addapply/ui/cnzz_xj.html?visitDstTime=1
+ERR: 非法操作:ui
+
+[ 2019-02-22T10:43:51+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-02-22T10:44:16+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2019-02-22T10:45:18+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2019-02-22T10:46:29+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-02-22T10:46:38+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2019-02-22T10:50:56+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-02-22T10:51:44+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2019-02-22T10:52:37+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2019-02-22T10:53:41+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2019-02-22T10:56:28+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-02-22T10:56:44+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2019-02-22T10:58:13+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-02-22T11:00:23+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-02-22T11:02:19+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-02-22T11:03:32+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2019-02-22T11:04:00+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-02-22T11:04:11+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2019-02-22T11:08:31+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2019-02-22T11:08:44+08:00 ] 61.158.147.188 /index.php/Home/Addapply/ui/cnzz_xj.html?visitDstTime=1
+ERR: 非法操作:ui
+
+[ 2019-02-22T11:08:44+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2019-02-22T11:09:05+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-02-22T11:09:16+08:00 ] 61.158.147.188 /index.php/Home/Addapply/ui/cnzz_xj.html?visitDstTime=1
+ERR: 非法操作:ui
+
+[ 2019-02-22T11:09:17+08:00 ] 61.158.147.188 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-02-22T11:10:57+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-02-22T11:11:22+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 54 行.
+
+[ 2019-02-22T11:11:24+08:00 ] 223.104.5.200 /index.php/Home/Api/get_cates.html?parent_id=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 65 行.
+
+[ 2019-02-22T11:12:02+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T11:13:33+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2019-02-22T11:14:07+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T11:14:13+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 54 行.
+
+[ 2019-02-22T11:14:17+08:00 ] 223.104.5.200 /index.php/Home/Api/get_cates.html?parent_id=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 65 行.
+
+[ 2019-02-22T11:15:31+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T11:15:36+08:00 ] 223.104.5.200 /index.php/Home/Api/get_category.html?parent_id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8] Undefined variable: html /www/wwwroot/wanplmsh/shiyan/Application/Home/Controller/ApiController.class.php 第 56 行.
+
+[ 2019-02-22T11:16:25+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-02-22T11:17:11+08:00 ] 223.104.5.200 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2019-02-22T11:17:28+08:00 ] 223.104.5.200 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2019-02-22T11:17:32+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2019-02-22T11:17:54+08:00 ] 223.104.5.200 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-02-22T11:18:17+08:00 ] 223.104.5.200 /index.php?m=Home&c=Api&a=issetMobile&mobile=13900001234
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+
+[ 2019-02-22T13:21:35+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2019-02-22T13:37:01+08:00 ] 140.207.74.250 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2019-02-22T13:37:40+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=issetMobile&mobile=13500001234
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+
+[ 2019-02-22T14:11:19+08:00 ] 140.207.74.250 /index.php/Home/Newjoin/basic_info.html
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T14:43:07+08:00 ] 223.104.210.224 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-02-22T14:48:36+08:00 ] 140.207.74.250 /index.php/Home/Addapply/bl.css
+ERR: 非法操作:bl.css
+
+[ 2019-02-22T14:49:05+08:00 ] 140.207.74.250 /index.php/Home/Addapply/bl.css
+ERR: 非法操作:bl.css
+
+[ 2019-02-22T14:51:25+08:00 ] 140.207.74.250 /index.php/Home/Addapply/bl.css
+ERR: 非法操作:bl.css
+
+[ 2019-02-22T14:52:58+08:00 ] 140.207.74.250 /index.php/Home/Addapply/bl.css
+ERR: 非法操作:bl.css
+
+[ 2019-02-22T14:52:58+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:53:32+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:55:24+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:56:11+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:57:44+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:58:28+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:59:04+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T14:59:30+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T15:00:23+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T15:00:50+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T15:02:17+08:00 ] 140.207.74.250 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T15:02:38+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-02-22T15:03:18+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2019-02-22T15:03:25+08:00 ] 61.158.148.31 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2019-02-22T15:04:03+08:00 ] 61.158.148.31 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2019-02-22T15:04:07+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2019-02-22T15:04:31+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-02-22T15:04:38+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2019-02-22T15:05:07+08:00 ] 61.158.148.31 /index.php/Home/Newjoin/contact.html
+ERR: 无法加载控制器:Newjoin
+
+[ 2019-02-22T15:05:32+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2019-02-22T15:05:54+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-02-22T15:07:09+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-02-22T15:10:42+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2019-02-22T15:57:03+08:00 ] 140.207.74.250 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2019-02-22T16:29:56+08:00 ] 61.158.148.31 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Undefined index: user_id /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 150 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /www/wwwroot/wanplmsh/shiyan/Application/Home/Logic/CartLogic.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+NOTIC: [8] Undefined index: anum /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Home/c2c5f09c3b7495f1e5bed3a1b597e8ef.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2019-02-22T16:30:39+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=issetMobile&mobile=13500002586
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+
+[ 2019-02-22T16:30:57+08:00 ] 61.158.148.31 /index.php/Home/Addapply/agreement.html/ws
+ERR: 非法操作:agreement.html
+
+[ 2019-02-22T16:31:10+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2019-02-22T16:31:17+08:00 ] 61.158.148.31 /index.php/Home/Addapply/check_company.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2019-02-22T16:31:21+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=2&parent_id=636
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-02-22T16:32:51+08:00 ] 61.158.148.31 /index.php?m=Home&c=Api&a=getRegion&level=1&parent_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2019-02-22T16:33:20+08:00 ] 61.158.148.31 /index.php/Home/Newjoin/check_store.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载控制器:Newjoin
+

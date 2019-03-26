@@ -1,0 +1,63 @@
+[ 2019-02-28T09:53:15+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/add_group_buy.html
+ERR: 非法操作:add_group_buy
+
+[ 2019-02-28T10:58:22+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/search_goods/tpl/select_goods.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/select_goods.html
+
+[ 2019-02-28T11:59:41+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Promotion&a=search_goods&goods_id=&t=0.9694494841229722
+ERR: 模板不存在:./Application/Seller/View/Promotion/search_goods.html
+
+[ 2019-02-28T13:46:20+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Promotion&a=search_goods&goods_id=&t=0.7185381280997576
+ERR: 模板不存在:./Application/Seller/View/Promotion/search_goods.html
+
+[ 2019-02-28T13:46:27+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Promotion&a=search_goods&goods_id=&t=0.5282257608560021
+ERR: 模板不存在:./Application/Seller/View/Promotion/search_goods.html
+
+[ 2019-02-28T13:51:18+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Promotion&a=search_goods&goods_id=&t=0.4139227933238052
+ERR: 模板不存在:./Application/Seller/View/Promotion/search_goods.html
+
+[ 2019-02-28T13:51:39+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Promotion&a=search_goods&goods_id=&t=0.39779570220979976
+ERR: 模板不存在:./Application/Seller/View/Promotion/search_goods.html
+
+[ 2019-02-28T15:08:24+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/coupon_info.html
+ERR: 非法操作:coupon_info
+
+[ 2019-02-28T15:11:06+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/add_voucher.html
+ERR: 模板不存在:./Application/Seller/View/Coupon/add_voucher.html
+
+[ 2019-02-28T15:11:49+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/add_voucher.html
+ERR: 模板不存在:./Application/Seller/View/Coupon/add_voucher.html
+
+[ 2019-02-28T15:49:43+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/coupon_info.html
+ERR: 非法操作:coupon_info
+
+[ 2019-02-28T16:25:15+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/coupon_info/id/26.html
+ERR: 非法操作:coupon_info
+
+[ 2019-02-28T16:58:41+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T16:59:22+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T16:59:33+08:00 ] 140.207.74.250 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T17:21:23+08:00 ] 140.207.74.250 /index.php/Seller/Index/dingdan.html
+ERR: 模板不存在:./Application/Seller/View/Index/dingdan.html
+
+[ 2019-02-28T17:21:45+08:00 ] 140.207.74.250 /index.php/Seller/Index/shuma.html
+ERR: 模板不存在:./Application/Seller/View/Index/shuma.html
+
+[ 2019-02-28T19:30:42+08:00 ] 223.104.213.83 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T20:40:39+08:00 ] 117.136.8.143 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T21:15:06+08:00 ] 117.136.8.143 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+
+[ 2019-02-28T21:31:21+08:00 ] 117.136.8.143 /index.php/Seller/Coupon/index.html
+ERR: 非法操作:index
+

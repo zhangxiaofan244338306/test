@@ -1,0 +1,180 @@
+<include file="Public/min-header" />
+<link rel="stylesheet" href="__STATIC__/dianpuguanli/shop.css" />
+<link rel="stylesheet" href="__STATIC__/uploadify/uploadify.css" />
+<script src="__STATIC__/uploadify/jquery.uploadify.js"></script>
+<script src="__STATIC__/uploadify/jquery.uploadify.min.js"></script>
+<script type="text/javascript" src="__STATIC__/artdialog/artDialog.js?skin=blue" ></script>
+<script type="text/javascript" src="__STATIC__/artdialog/plugins/iframeTools.js" ></script>
+<form method="post" id="handlepost" action="{:U('Store/setting_save')}">
+<div class=" headerblum">
+				<h4>店铺设置</h4><a class="backright" href="javas cript:history.back();">返回上一页</a> 
+</div>
+			</div>
+		<div class="container widthmade">
+			
+			<div class="row header">
+				<div class="col-md-2 col-xs-4">店铺等级：</div>
+				<div class="col-md-10 col-xs-8"> {$store.grade_name}</div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4 text">店铺名称：</div>
+				<div class="col-md-10 col-xs-8"><input type="text" name="store_name" value="{$store.store_name}" class="form-control rightBlum" id="exampleInputName2" placeholder="请输入店铺名称"></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">主营商品：</div>
+				<div class="col-md-10 col-xs-8"><textarea name="store_zy" value="{$store.store_zy}" class="form-control rightBlum" rows="3">{$store.store_zy}</textarea></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">店铺LOGO：</div>
+				<div class="col-md-10 col-xs-8">
+					<input name="store_logo" value="{$store.store_logo}" />
+				</div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">店铺banner：</div>
+				<div class="col-md-10 col-xs-8">
+					<input type="hidden" name="store_banner" value="{$store.store_banner}">
+				</div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">banner背景：</div>
+				<div class="col-md-10 col-xs-8 "><input class="form-control" name="bgcolor" type="color" value="{$info.bgcolor}"/></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4 text">店铺电话：</div>
+				<div class="col-md-10 col-xs-8"><input type="number" value="{$store.store_phone}" class="form-control rightBlum" id="" placeholder="请输入店铺电话"></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4 text">客服qq：</div>
+				<div class="col-md-10 col-xs-8"><input value= "{$store.store_qq}" type="number" class="form-control rightBlum" id="" placeholder="请输入客服qq"></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4 text">阿里旺旺：</div>
+				<div class="col-md-10 col-xs-8"><input type="number" class="form-control rightBlum" id="" placeholder="请输入阿里旺旺账号"></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4 text">店铺地址：</div>
+				<div class="col-md-10 col-xs-4"  ><select id="city" value=0 class="form-control rightBlum">
+						<option >1</option>
+						<option>2</option>
+						<option>3</option>
+						<option>4</option>
+						<option>5</option>
+					</select>
+				</div>
+				<div class="col-md-10 col-xs-4"><select value ="0" id="district" class="form-control rightBlum">
+						<option value ="1" >选择城市</option>
+					</select>
+				</div>
+				<div class="col-md-10 col-xs-4 col-xs-offset-4"><select id="twon" value="0" class="form-control rightBlum">
+						<option>选择区域</option>
+					</select>
+				</div>
+				<div class="col-md-10 col-xs-4"><select id="xiangxi" value="0" class="form-control rightBlum">
+						<option>选择乡镇</option>
+					</select>
+				</div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">详细地址：</div>
+				<div class="col-md-10 col-xs-8 "><input value="{$store.store_address}" type="number" class="rightBlum form-control" id="" placeholder=""></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">满多少免运费：</div>
+				<div class="col-md-10 col-xs-8"><input value="{$store.store_free_price}" type="number" class="rightBlum form-control" id="" placeholder=""></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">SEO关键字：</div>
+				<div class="col-md-10 col-xs-8"><input value="{$store.seo_keywords}" type="text" class="rightBlum form-control" id="exampleInputName2" placeholder="请输入店铺名称"></div>
+			</div>
+			<div class="row spcing">
+				<div class="col-md-2 col-xs-4">SEO店铺描述：</div>
+				<div class="col-md-10 col-xs-8"><textarea class="form-control rightBlum" rows="3">{$store.seo_description}</textarea></div>
+			</div>
+		</div>
+		</form>
+	</body >
+
+</html>
+<script>
+	$(function() {
+		get_city1();
+		get_city1();
+		$("#city").change(function(){
+			get_city(this)
+		});
+		$("#district").change(function(){
+			get_area(this)
+		});
+		$("#twon").click(function(){
+			get_twon(this)
+		});
+// 		var tmpl = '<li class="upimage" style="background-image:url(#url#)"></li>',
+// 			$uploaderInput = $("#uploaderInput"),
+// 			$uploaderFiles = $("#uploaderFiles");
+// 
+// 		$uploaderInput.on("change", function(e) {
+// 			var src, url = window.URL || window.webkitURL || window.mozURL,
+// 				files = e.target.files;
+// 			for (var i = 0, len = files.length; i < len; ++i) {
+// 				var file = files[i];
+// 
+// 				if (url) {
+// 					src = url.createObjectURL(file);
+// 					$uploaderFiles.append($(tmpl.replace('#url#', src)));
+// 				} else {
+// 					//					src = e.target.result;
+// 					var album = e.target.result;
+// 					$uploaderFiles.append($(tmpl.replace('#url#', album)));
+// 				}
+// 
+// 			}
+// 		});
+// 		$uploaderInputBanner = $("#uploaderInputBanner"),
+// 			$uploaderFilesBanner = $("#uploaderFilesBanner");
+
+// 		$uploaderInputBanner.on("change", function(e) {
+// 			var src, url = window.URL || window.webkitURL || window.mozURL,
+// 				files = e.target.files;
+// 			for (var i = 0, len = files.length; i < len; ++i) {
+// 				var file = files[i];
+// 
+// 				if (url) {
+// 					src = url.createObjectURL(file);
+// 					$uploaderFilesBanner.append($(tmpl.replace('#url#', src)));
+// 				} else {
+// 					//					src = e.target.result;
+// 					var album = e.target.result;
+// 					$uploaderFilesBanner.append($(tmpl.replace('#url#', album)));
+// 				}
+// 
+// 			}
+// 		});
+		
+		function adsubmit(){
+			$('#handlepost').submit();
+		}
+		
+		function goset(obj){
+			window.location.href = $(obj).attr('data-url');
+		}
+		
+		function callback1(img_str){
+			$('input[name="store_logo"]').val(img_str);
+			$('#store_logo').attr('src',img_str);
+		}
+		
+		function callback2(img_str){
+			$('input[name="store_banner"]').val(img_str);
+			$('#store_banner').attr('src',img_str);
+		}
+		function biaoji(){
+		        siteurl="http://waimai.plmsh.com";
+		        mydialog = art.dialog.open(siteurl+'/index.php?ctrl=area&action=shopbaidumap',{height:'550px',width:'850px'},false);
+		        //http://www.hanwoba.com/index.php?ctrl=admin&action=baidumap&id=2#
+		         mydialog.title('设置标记高德地图位置'); 
+		  }
+		
+
+	});
+</script>

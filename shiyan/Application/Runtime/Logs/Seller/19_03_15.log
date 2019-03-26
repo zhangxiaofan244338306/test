@@ -1,0 +1,16 @@
+[ 2019-03-15T13:16:55+08:00 ] 10.111.23.15 /index.php?m=Seller&c=Admin&a=login&t=0.03444373779711252
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 43 行.
+
+[ 2019-03-15T13:17:09+08:00 ] 10.111.23.15 /index.php?m=Seller&c=Admin&a=login&t=0.22900214085826875
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin D:\2345Downloads\www\shiyan\Application\Seller\Common\function.php 第 43 行.
+ERR: 1364:Field 'log_state' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `ty_seller_log` (`log_time`,`log_seller_id`,`log_seller_name`,`log_content`,`log_seller_ip`,`log_store_id`,`log_url`) VALUES ('1552627029','1','13100001234','商家管理中心登录','10.111.23.15','1','/index.php/Seller/Admin/login')
+

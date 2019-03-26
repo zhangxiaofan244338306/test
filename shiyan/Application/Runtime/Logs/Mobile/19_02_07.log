@@ -1,0 +1,179 @@
+[ 2019-02-07T10:54:30+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2019-02-07T10:55:06+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=User&a=do_login&t=0.26578586908208135
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+
+[ 2019-02-07T10:55:07+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2019-02-07T10:55:15+08:00 ] 223.104.212.56 /index.php/Mobile/User/message_list.html
+ERR: 模板不存在:./Application/Mobile/View/User/message_list.html
+
+[ 2019-02-07T10:55:20+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2019-02-07T10:55:30+08:00 ] 223.104.212.56 /index.php/Mobile/User/return_goods_list.html
+ERR: 模板不存在:./Application/Mobile/View/User/return_goods_list.html
+
+[ 2019-02-07T10:55:36+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2019-02-07T10:55:47+08:00 ] 223.104.212.56 /index.php/Mobile/User/message_list.html
+ERR: 模板不存在:./Application/Mobile/View/User/message_list.html
+
+[ 2019-02-07T10:55:52+08:00 ] 223.104.212.56 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2019-02-07T10:56:19+08:00 ] 223.104.212.56 /index.php/Mobile/User/userinfo.html
+ERR: 模板不存在:./Application/Mobile/View/User/userinfo.html
+
+[ 2019-02-07T13:55:42+08:00 ] 223.104.213.14 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Controller/IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+

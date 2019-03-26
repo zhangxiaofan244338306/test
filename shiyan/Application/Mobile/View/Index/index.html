@@ -1,0 +1,789 @@
+<!DOCTYPE html >
+<html>
+	<head>
+		<meta name="Generator" content="universal v1.1" />
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>首页-{$plmshop_config['shop_info_store_title']}</title>
+		<meta http-equiv="keywords" content="{$plmshop_config['shop_info_store_keyword']}" />
+		<meta name="description" content="{$plmshop_config['shop_info_store_desc']}" />
+		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<link rel="stylesheet" type="text/css" href="__STATIC__/css/public.css" />
+		<link rel="stylesheet" type="text/css" href="__STATIC__/css/index.css" />
+		<link rel="stylesheet" href="http://cache.amap.com/lbs/static/main1119.css" />
+		<script type="text/javascript" src="__STATIC__/js/jquery.js"></script>
+		<script type="text/javascript" src="http://webapi.amap.com/maps?v=1.4.3&key=9f831272996d8fb9c2765393725e3f96"></script>
+		<script type="text/javascript" src="http://cache.amap.com/lbs/static/addToolbar.js"></script>
+		<script type="text/javascript" src="__STATIC__/js/jquery.json.js"></script>
+		<script type="text/javascript" src="__STATIC__/js/touchslider.dev.js"></script>
+		<script type="text/javascript" src="__STATIC__/js/layer.js"></script>
+		<script src="__PUBLIC__/js/global.js"></script>
+		<script src="__PUBLIC__/js/mobile_common.js"></script>
+
+	</head>
+	<body>
+		<div id="page" class="showpage">
+			<div>
+				<header id="header">
+					<a href="{:U('Goods/categoryList')}" class="top_bt"></a><a href="{:U('Cart/cart')}" class='user_btn'></a>
+					<span href="javascript:void(0)" class="logo">派乐咪</span>
+				</header>
+
+				<div id="scrollimg" class="scrollimg">
+					<div class="bd">
+						<ul>
+							<adv pid="2" limit="5" item="v">
+								<li><a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> ><img src="{$v[ad_code]}"
+										 title="{$v[title]}" width="100%" style="{$v[style]}" /></a></li>
+							</adv>
+						</ul>
+					</div>
+					<div class="hd">
+						<ul></ul>
+					</div>
+				</div>
+
+				<style>
+					.dress{
+    display: flex;
+    background:#fff;
+  }
+  .dress1{
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    display: block;
+    background:#fff;
+    color: #888;
+    margin-top: 20px;
+    padding-left: 5px;
+    font-size: 14px;
+  }
+.index_search{
+
+}
+</style>
+				<div id='container' style="display: hidden;position:absolute;z-index: -2;"></div>
+				<div class="dress">
+					<!-- <p class="dress1" id='info'>选择地址</p> -->
+					<div id="fake-search" class="index_search">
+						<div id="dingweibtn" onclick="getGeolocation()" style=" position: absolute;margin-top: 20px;font-size: 14px;"><img
+							 style="width: 34px;height: 34px;" src="__STATIC__/images/geolocation.150X150.png">定位中 </div>
+						<div style="position: relative;margin-left: 99px; width: 66%;" class="index_search_mid">
+							<span><img src="__STATIC__/images/xin/icosousuo.png"></span>
+							<input type="text" id="search_text" class="search_text" value="请输入您所搜索的商品" />
+						</div>
+					</div>
+				</div>
+				<script type="text/javascript">
+
+					/***************************************
+					由于Chrome、IOS10等已不再支持非安全域的浏览器定位请求，为保证定位成功率和精度，请尽快升级您的站点到HTTPS。
+					***************************************/
+					var map, geolocation;
+					map = new AMap.Map('container');
+					map.plugin('AMap.Geolocation', function() {
+						geolocation = new AMap.Geolocation({
+							enableHighAccuracy: true, //是否使用高精度定位，默认:true
+							timeout: 10000, //超过10秒后停止定位，默认：无穷大
+							maximumAge: 0, //定位结果缓存0毫秒，默认：0
+							convert: true, //自动偏移坐标，偏移后的坐标为高德坐标，默认：true
+							showButton: true, //显示定位按钮，默认：true
+							buttonPosition: 'LB', //定位按钮停靠位置，默认：'LB'，左下角
+							buttonOffset: new AMap.Pixel(10, 20), //定位按钮与设置的停靠位置的偏移量，默认：Pixel(10, 20)
+							showMarker: true, //定位成功后在定位到的位置显示点标记，默认：true
+							showCircle: true, //定位成功后用圆圈表示定位精度范围，默认：true
+							panToLocation: true, //定位成功后将定位到的位置作为地图中心点，默认：true
+							zoomToAccuracy: true //定位成功后调整地图视野范围使定位位置及精度范围视野内可见，默认：false
+						});
+						map.addControl(geolocation);
+						geolocation.getCurrentPosition();
+						AMap.event.addListener(geolocation, 'complete', onComplete); //返回定位信息
+						AMap.event.addListener(geolocation, 'error', onError); //返回定位出错信息
+					});
+					console.log("zheli")
+					//解析定位结果
+					function onComplete(data) {
+						console.log(data);
+
+						document.getElementById('dingweibtn').innerHTML = data.addressComponent.street + data.addressComponent.streetNumber;
+					}
+
+					function getSomeOfMyVal() {
+						return myplace + "+" + mycity;
+					}
+
+					//解析定位错误信息
+					function onError(data) {
+
+					}
+
+					function getGeolocation() {
+						geolocation.getCurrentPosition();
+						document.getElementById('dingweibtn').innerHTML =
+							'<img style = "width: 34px;height: 34px;" src="__STATIC__/images/geolocation.150X150.png">定位中';
+					}
+					// 		map.on('complete', function() {
+					//         document.getElementById('tip').innerHTML = "地图图块加载完毕！当前地图中心点为：" + map.getCenter();
+					//     });
+				</script>
+				<!-- <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.12&key=8539db3b4ee7afd950356704d0e3a958&plugin=AMap.CitySearch"></script>
+<script type="text/javascript">
+    var map = new AMap.Map("container", {
+        resizeEnable: true,
+        center: [116.397428, 39.90923],
+        zoom: 13
+    });
+    //获取用户所在城市信息
+    function showCityInfo() {
+        //实例化城市查询类
+        var citysearch = new AMap.CitySearch();
+        //自动获取用户IP，返回当前城市
+        citysearch.getLocalCity(function(status, result) {
+            if (status === 'complete' && result.info === 'OK') {
+                if (result && result.city && result.bounds) {
+                    var cityinfo = result.city;
+                    var citybounds = result.bounds;
+
+                    $('#info').click(function(){
+                      document.getElementById('info').innerHTML = cityinfo;
+                    })
+                   
+                    //地图显示当前城市
+                    map.setBounds(citybounds);
+                }
+            } else {
+                document.getElementById('info').innerHTML = result.info;
+            }
+        });
+    }
+    showCityInfo();
+</script> -->
+				<script type="text/javascript" src="__STATIC__/js/TouchSlide.1.1.js"></script>
+				<script type="text/javascript">
+					TouchSlide({
+						slideCell: "#scrollimg",
+						titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+						mainCell: ".bd ul",
+						effect: "leftLoop",
+						autoPage: true, //自动分页
+						autoPlay: true //自动播放
+					});
+				</script>
+
+				<div class="entry-list clearfix">
+					<nav>
+						<ul>
+							<li>
+								<a href="{:U('Index/street')}">
+									<img alt="店铺街" src="__STATIC__/images/wotuan/shangpu.png">
+									<span>商铺街</span>
+								</a>
+							</li>
+							<!--  <li>
+        <a href="{:U('Index/brand')}">
+          <img alt="品牌街" src="__STATIC__/images/wotuan/meirong.png">
+          <span>美容</span>
+          美容下面添加洗澡
+        </a>
+      </li>  -->
+							<li>
+								<a href="{:U('Activity/discount_list')}">
+									<!--此处必须要给店铺的地址 如-->
+									<!-- http://plm.com/index.php/Mobile/Store/index/store_id/1.html -->
+									<!-- 这里不是给店铺地址而是给商品分类id的地址-->
+									<img alt="优惠活动" src="__STATIC__/images/wotuan/yiyuan.png">
+									<span>宠物医院</span>
+								</a>
+							</li>
+							<!--  <li>
+        <a href="{:U('Activity/group_list')}">
+          <img alt="我的订单" src="__STATIC__/images/wotuan/goucong.png" />
+          <span>购宠</span>
+        </a>
+      </li> -->
+							<li>
+								<a href="{:U('User/order_list')}">
+									<img alt="积分商城" src="__STATIC__/images/wotuan/jiudian.png">
+									<span>宠物酒店</span>
+								</a>
+							</li>
+							<!--  <li>
+        <a href="{:U('Cart/cart')}">
+          <img alt="购物车" src="__STATIC__/images/wotuan/jueyu.png" />
+          <span>绝育</span>
+        </a>
+      </li>
+      <li>
+        <a href="{:U('User/index')}">
+          <img alt="个人中心" src="__STATIC__/images/wotuan/tijian.png" />
+          <span>体检</span>
+        </a>
+      </li> -->
+							<!-- 一下是新添加的 -->
+							<li>
+								<a href="{:U('Index/street')}">
+									<img alt="宠物训练" src="__STATIC__/images/wotuan/xunlian.png">
+									<span>宠物训练</span>
+								</a>
+							</li>
+							<li>
+								<a href="{:U('Index/street')}">
+									<img alt="名猫街" src="__STATIC__/images/wotuan/mingmao.png">
+									<span>名猫街</span>
+								</a>
+							</li>
+							<li>
+								<a href="{:U('Index/street')}">
+									<img alt="名犬街" src="__STATIC__/images/wotuan/mingquan.png">
+									<span>名犬街</span>
+								</a>
+							</li>
+							<!-- <li>
+        <a href="{:U('Index/street')}">
+          <img alt="店铺街" src="__STATIC__/images/wotuan/shipin.png">
+          <span>食品</span>
+        </a>
+      </li>
+      <li>
+        <a href="{:U('Index/street')}">
+          <img alt="店铺街" src="__STATIC__/images/wotuan/leyuan.png">
+          <span>乐园</span>
+        </a>
+      </li>
+      
+      <li>
+        <a href="{:U('Index/street')}">
+          <img alt="店铺街" src="__STATIC__/images/wotuan/anzhuang.png">
+          <span>殡葬</span>
+        </a>
+      </li> -->
+							<li>
+								<a href="{:U('Index/recruit')}">
+									<img alt=" " src="__STATIC__/images/wotuan/zhaopin.png">
+									<span>人才招聘</span>
+								</a>
+							</li>
+							<li>
+								<a href="{:U('Index/train')}">
+									<img alt="宠物师学校" src="__STATIC__/images/wotuan/xuexiao.png" />
+									<span>美容学校</span>
+								</a>
+							</li>
+							<li>
+								<a href="{:U('Index/street')}">
+									<img alt="店铺街" src="__STATIC__/images/wotuan/tuoyun.png">
+									<span>宠物托运</span>
+								</a>
+							</li>
+							<!-- 新添加结束 -->
+						</ul>
+					</nav>
+				</div>
+
+				<div class="floor_images">
+					<dl>
+						<dt>
+							<adv limit="1" item="v" pid="300">
+								<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+									<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+								</a>
+							</adv>
+						</dt>
+						<dd>
+							<span class="Edge">
+								<adv limit="1" item="v" pid="301">
+									<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+										<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+									</a>
+								</adv>
+							</span>
+							<span>
+								<adv limit="1" item="v" pid="302">
+									<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+										<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+									</a>
+								</adv>
+							</span>
+						</dd>
+					</dl>
+					<ul>
+						<li class="brom">
+							<adv limit="1" item="v" pid="303">
+								<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+									<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+								</a>
+							</adv>
+						</li>
+						<li>
+							<adv limit="1" item="v" pid="304">
+								<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+									<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+								</a>
+							</adv>
+						</li>
+					</ul>
+				</div>
+				<script>
+					/* 
+var Tday = new Array();
+var daysms = 24 * 60 * 60 * 1000
+var hoursms = 60 * 60 * 1000
+var Secondms = 60 * 1000
+var microsecond = 1000
+var DifferHour = -1
+var DifferMinute = -1
+var DifferSecond = -1
+function clock(key)
+{
+   var time = new Date()
+   var hour = time.getHours()
+   var minute = time.getMinutes()
+   var second = time.getSeconds()
+   var timevalue = ""+((hour > 12) ? hour-12:hour)
+   timevalue +=((minute < 10) ? ":0":":")+minute
+   timevalue +=((second < 10) ? ":0":":")+second
+   timevalue +=((hour >12 ) ? " PM":" AM")
+   var convertHour = DifferHour
+   var convertMinute = DifferMinute
+   var convertSecond = DifferSecond
+   var Diffms = Tday[key].getTime() - time.getTime()
+   DifferHour = Math.floor(Diffms / daysms)
+   Diffms -= DifferHour * daysms
+   DifferMinute = Math.floor(Diffms / hoursms)
+   Diffms -= DifferMinute * hoursms
+   DifferSecond = Math.floor(Diffms / Secondms)
+   Diffms -= DifferSecond * Secondms
+   var dSecs = Math.floor(Diffms / microsecond)
+  
+   if(convertHour != DifferHour) a=DifferHour+":";
+   if(convertMinute != DifferMinute) b=DifferMinute+":";
+   if(convertSecond != DifferSecond) c=DifferSecond+"分"
+     d=dSecs
+     if (DifferHour>0) {a=a}
+     else {a=''}
+   document.getElementById("jstimerBox"+key).innerHTML = a + b + c ; //显示倒计时信息
+}
+*/
+
+
+					// 倒计时
+					function GetRTime2() {
+						//var text = GetRTime('2016/02/27 17:34:00');
+						<
+						universal sql =
+							"select * from __PREFIX__goods as g inner join __PREFIX__flash_sale as f on g.goods_id = f.goods_id and g.is_on_sale = 1 and g.goods_state =1 limit 3"
+						key = "k"
+						item = 'v' >
+							var text {
+								$v[goods_id]
+							} = GetRTime('{$v.end_time|date="Y/m/d H:i:s",###}');
+
+						if (typeof(text {
+								$v[goods_id]
+							}) == "undefined")
+							$("#surplus_text{$v[goods_id]}").text('活动已结束');
+						else
+							$("#surplus_text{$v[goods_id]}").text(text {
+								$v[goods_id]
+							});
+
+						<
+						/universal>
+					}
+					setInterval(GetRTime2, 1000);
+				</script>
+				<section class="index_floor_lou">
+					<div class="floor_body">
+						<h2>
+							<em></em>促销商品
+							<!--<div class="geng"><a href="{:U('Goods/search',array('q'=>'促销'))}">更多</a><span></span></div>-->
+						</h2>
+						<div id="scroll_promotion">
+							<ul>
+								<universal sql="select * from __PREFIX__goods as g inner join __PREFIX__flash_sale as f on g.goods_id = f.goods_id and g.is_on_sale = 1 and g.goods_state =1 limit 3"
+								 key="key" item='val'>
+									<li>
+										<a href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" title="{$val.goods_name}"></a>
+										<div class="index_pro">
+											<a href="{:U('Mobile/Goods/goodsInfo',array('id'=>$val[goods_id]))}" title="{$val.goods_name}">
+												<div class="products_kuang">
+													<div class="timerBox" id="surplus_text{$val[goods_id]}">0时 00分 00秒</div>
+													<img src="{$val.goods_id|goods_thum_images=400,400}" onerror="this.src='__STATIC__/images/icon_product_null.png'">
+													<!-- 这里暂时屏蔽，找到图片再开启 -->
+												</div>
+												<div class="goods_name">{$val.goods_name}</div>
+											</a>
+											<!-- <div class="price">
+                      <a href="javascript:AjaxAddCart({$val[goods_id]},1,0);" class="btns">
+                      <img src="__STATIC__/images/index_flow.png">
+                      </a>
+                    <span class="price_pro">￥{$val.price}元</span>
+                  </div> -->
+										</div>
+									</li>
+								</universal>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+				<div class="floor_images">
+					<dl>
+						<dt>
+							<adv limit="1" item="v" pid="305">
+								<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+									<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+								</a>
+							</adv>
+						</dt>
+						<dd>
+							<span class="Edge">
+								<adv limit="1" item="v" pid="306">
+									<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+										<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+									</a>
+								</adv>
+							</span>
+							<span>
+								<adv limit="1" item="v" pid="307">
+									<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+										<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+									</a>
+								</adv>
+							</span>
+						</dd>
+					</dl>
+					<strong>
+						<adv limit="1" item="v" pid="308">
+							<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+								<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+							</a>
+						</adv>
+					</strong>
+				</div>
+
+				<section class="index_floor">
+					<div class="floor_body1">
+						<h2><em></em>精品推荐
+							<!--<div class="geng"> <a href="{:U('Goods/search',array('q'=>'精品'))}">更多</a> <span></span></div>-->
+						</h2>
+						<div id="scroll_best" class="scroll_hot">
+							<div class="bd">
+								<ul>
+									<assign name="fl" value="1" />
+									<universal sql="select * from __PREFIX__goods where is_recommend=1 and is_on_sale = 1 and goods_state = 1 order by sort desc limit 9"
+									 item="v" key="k">
+										<li>
+											<!-- <a href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" title="{$v.goods_name}"> -->
+											<!--上面是原版，下面是应老板要求修改的 -->
+											<a href="{:U('Mobile/Store/index',array('store_id'=>$v[store_id]))}" title="{$v.goods_name}">
+												<!-- 商品表中有店铺id 图片用商品的，跳转到店铺连接
+                <a href="{:U('Store/index',array('store_id'=>$store[store_id]))}"> -->
+												<!--上面是原版，下面是应老板要求修改的结束 -->
+												<div class="index_pro">
+													<div class="products_kuang">
+														<img src="{$v.goods_id|goods_thum_images=400,400}"></div>
+													<div class="goods_name">{$v.goods_name}</div>
+													<!--  <div class="price">
+                   <a href="javascript:AjaxAddCart({$v[goods_id]},1,0);" class="btns">
+                      <img src="__STATIC__/images/index_flow.png">
+                   </a>
+                   <span href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" class="price_pro">￥{$v.shop_price}元</span>
+                </div> -->
+												</div>
+											</a>
+										</li>
+										<if condition="($fl++%3 eq 0) && ($fl lt 9)">
+								</ul>
+								<ul>
+									</if>
+									</universal>
+								</ul>
+							</div>
+							<div class="hd">
+								<ul></ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<script type="text/javascript">
+					TouchSlide({
+						slideCell: "#scroll_best",
+						titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+						effect: "leftLoop",
+						autoPage: true, //自动分页
+						//switchLoad:"_src" //切换加载，真实图片路径为"_src" 
+					});
+				</script>
+				<section class="index_floor">
+					<div class="floor_body1">
+						<h2>
+							<em></em>
+							新品上市
+							<!--<div class="geng"><a href="{:U('Goods/search',array('q'=>'新品'))}" >更多</a> <span></span></div>-->
+						</h2>
+						<div id="scroll_new" class="scroll_hot">
+							<div class="bd">
+								<ul>
+									<assign name="fl" value="1" />
+									<universal sql="select * from __PREFIX__goods where is_new=1 and is_on_sale = 1 and goods_state = 1 order by sort desc limit 9"
+									 item="v" key="k">
+										<li>
+											<a href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" title="{$v.goods_name}">
+												<div class="index_pro">
+													<div class="products_kuang">
+														<img src="{$v.goods_id|goods_thum_images=400,400}"></div>
+													<div class="goods_name">{$v.goods_name}</div>
+													<!-- 下面应该显示价格的，应老板要求修改的 -->
+													<!-- <div class="price">
+
+                   <a href="javascript:AjaxAddCart({$v[goods_id]},1,0);" class="btns">
+                      <img src="__STATIC__/images/index_flow.png">
+                   </a>
+                   <span href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" class="price_pro">￥{$v.shop_price}元</span>
+                </div> -->
+													<!-- 下面应该显示价格的，应老板要求修改的结束，首页的所有价格都关闭 -->
+												</div>
+											</a>
+										</li>
+										<if condition="($fl++%3 eq 0) && ($fl lt 9)">
+								</ul>
+								<ul>
+									</if>
+									</universal>
+								</ul>
+							</div>
+							<div class="hd">
+								<ul></ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<script type="text/javascript">
+					TouchSlide({
+						slideCell: "#scroll_new",
+						titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+						effect: "leftLoop",
+						autoPage: true, //自动分页
+						//switchLoad:"_src" //切换加载，真实图片路径为"_src" 
+					});
+				</script>
+				<section class="index_floor">
+					<div class="floor_body1">
+						<h2><em></em>热销商品
+							<!--<div class="geng"><a href="{:U('Goods/search',array('q'=>'热销'))}" >更多</a> <span></span></div>-->
+						</h2>
+						<div id="scroll_hot" class="scroll_hot">
+							<div class="bd">
+								<ul>
+									<assign name="fl" value="1" />
+									<universal sql="select * from __PREFIX__goods where is_hot=1 and is_on_sale = 1 and goods_state = 1 order by sort desc limit 9"
+									 item="v" key="k">
+										<li>
+											<a href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" title="{$v.goods_name}">
+												<div class="index_pro">
+													<div class="products_kuang">
+														<img src="{$v.goods_id|goods_thum_images=400,400}"></div>
+													<div class="goods_name">{$v.goods_name}</div>
+													<!-- <div class="price">
+                   <a href="javascript:AjaxAddCart({$v[goods_id]},1,0);" class="btns">
+                      <img src="__STATIC__/images/index_flow.png">
+                   </a>
+                   <span href="{:U('Mobile/Goods/goodsInfo',array('id'=>$v[goods_id]))}" class="price_pro">￥{$v.shop_price}元</span>
+                </div> -->
+												</div>
+											</a>
+										</li>
+										<if condition="($fl++%3 eq 0) && ($fl lt 9)">
+								</ul>
+								<ul>
+									</if>
+									</universal>
+								</ul>
+							</div>
+							<div class="hd">
+								<ul></ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<script type="text/javascript">
+					TouchSlide({
+						slideCell: "#scroll_hot",
+						titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+						effect: "leftLoop",
+						autoPage: true, //自动分页
+						//switchLoad:"_src" //切换加载，真实图片路径为"_src" 
+					});
+				</script>
+
+
+				<section class="index_floor_lou">
+					<div class="floor_body ">
+						<h2>
+							<em></em>
+							<div class="geng"><a href="javascript:void(0);">更多</a> <span></span></div>
+						</h2>
+						<ul>
+						</ul>
+					</div>
+				</section>
+
+				<div id="index_banner" class="index_banner">
+					<div class="bd">
+						<ul>
+							<adv limit="2" item="v" pid="309">
+								<li>
+									<a href="{$v.ad_link}" <if condition="$v['target'] eq 1">target="_blank"</if> >
+										<img src="{$v[ad_code]}" title="{$v[title]}" style="{$v[style]}" border="0">
+									</a>
+								</li>
+							</adv>
+						</ul>
+					</div>
+					<div class="hd">
+						<ul>
+						</ul>
+					</div>
+				</div>
+				<script type="text/javascript">
+					TouchSlide({
+						slideCell: "#index_banner",
+						titCell: ".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+						mainCell: ".bd ul",
+						effect: "leftLoop",
+						autoPage: true, //自动分页
+						autoPlay: true //自动播放
+					});
+				</script>
+
+				<script type="text/javascript">
+					var url = "index.php?m=Mobile&c=Index&a=ajaxGetMore";
+					$(function() {
+						//$('#J_ItemList').more({'address': url});
+						getGoodsList();
+					});
+
+					var page = 1;
+
+					function getGoodsList() {
+						$('.get_more').show();
+						$.ajax({
+							type: "get",
+							url: "/index.php?m=Mobile&c=Index&a=ajaxGetMore&p=" + page,
+							dataType: 'html',
+							success: function(data) {
+								if (data) {
+									$("#J_ItemList>ul").append(data);
+									page++;
+									$('.get_more').hide();
+								} else {
+									$('.get_more').hide();
+									$('#getmore').remove();
+								}
+							}
+						});
+					}
+				</script>
+				<div class="floor_body2">
+					<h2>————&nbsp;猜你喜欢&nbsp;————</h2>
+					<div id="J_ItemList">
+						<ul class="product single_item info">
+						</ul>
+						<a href="javascript:;" class="get_more" style="text-align:center; display:block;">
+							<img src='__STATIC__/images/category/loader.gif' width="12" height="12"> </a>
+					</div>
+					<div id="getmore" style="font-size:.24rem;text-align: center;color:#888;padding:.25rem .24rem .4rem;">
+						<a href="javascript:void(0)" onClick="getGoodsList()">点击加载更多</a>
+					</div>
+				</div>
+				<include file="Public/footer" />
+				<script>
+					function goTop(){
+  $('html,body').animate({'scrollTop':0},600);
+}
+</script>
+				<a href="javascript:goTop();" class="gotop"><img src="__STATIC__/images/topup.png"></a>
+			</div>
+
+
+			<div id="search_hide" class="search_hide">
+				<h2> <span class="close"><img src="__STATIC__/images/close.png"></span>关键搜索</h2>
+				<div id="mallSearch" class="search_mid">
+					<div id="search_tips" style="display:none;"></div>
+					<ul class="search-type">
+						<li class="cur" num="0">宝贝</li>
+						<li num="1">店铺</li>
+					</ul>
+					<div class="searchdotm">
+						<form class="set_ip" name="sourch_form" id="sourch_form" method="post" action="{:U('Goods/search')}">
+							<div class="mallSearch-input">
+								<div id="s-combobox-135">
+									<input class="s-combobox-input" name="q" id="q" placeholder="请输入关键词" type="text" value="<?php echo I('q'); ?>" />
+								</div>
+								<input type="button" value="" class="button" onclick="if($.trim($('#q').val()) != '') $('#sourch_form').submit();" />
+							</div>
+						</form>
+					</div>
+				</div>
+				<!--
+    <div class="search_body">
+    <div class="search_box">
+    <form action="search.php" method="post" id="searchForm" name="searchForm">
+    <div>
+    <select id='search_type' name="search_type" style="width:15%;">
+      <option value='search'>宝贝</option>
+      <option value='stores'>店铺</option>
+    </select>
+         <input class="text" type="search" name="keywords" id="keywordBox" autofocus>
+         <button type="submit" value="搜 索" ></button>
+    </div>
+    </form>
+      </div>
+    </div>
+       -->
+				<section class="mix_recently_search">
+					<h3>热门搜索</h3>
+					<ul>
+						<foreach name="plmshop_config.hot_keywords" item="wd" key="k">
+							<li><a href="{:U('Goods/search',array('q'=>$wd))}" <if condition="$k eq 0">class="ht"</if>>{$wd}</a></li>
+						</foreach>
+					</ul>
+				</section>
+			</div>
+
+		</div>
+		<include file="Public/footer_nav" />
+
+		<script type="text/javascript">
+			$(function() {
+				$('#search_text').click(function() {
+					$(".showpage").children('div').hide();
+					$("#search_hide").css('position', 'fixed').css('top', '0px').css('width', '100%').css('z-index', '999').show();
+				})
+				$('#get_search_box').click(function() {
+					$(".showpage").children('div').hide();
+					$("#search_hide").css('position', 'fixed').css('top', '0px').css('width', '100%').css('z-index', '999').show();
+				})
+				$("#search_hide .close").click(function() {
+					$(".showpage").children('div').show();
+					$("#search_hide").hide();
+				})
+			});
+		</script>
+		<script>
+			$('.search-type li').click(function() {
+				$(this).addClass('cur').siblings().removeClass('cur');
+				$('#searchtype').val($(this).attr('num'));
+			});
+			$('#searchtype').val($(this).attr('0'));
+		</script>
+		<script src="__PUBLIC__/js/jqueryUrlGet.js"></script>
+		<!--获取get参数插件-->
+		<script>
+			set_first_leader(); //设置推荐人
+		</script>
+	</body>
+</html>

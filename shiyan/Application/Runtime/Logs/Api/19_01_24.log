@@ -1,0 +1,8 @@
+[ 2019-01-24T09:19:58+08:00 ] 140.207.74.250 /index.php?m=Api&controller=index&action=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: favourite_goods /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 47 行.
+

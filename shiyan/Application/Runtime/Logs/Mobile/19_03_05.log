@@ -1,0 +1,161 @@
+[ 2019-03-05T08:45:43+08:00 ] 112.65.61.198 /index.php?m=Mobile&c=Index&a=ajaxStreetList&p=1&sc_id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant TPSHOP_CACHE_TIME - assumed 'TPSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Mobile/Model/StoreModel.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Use of undefined constant store_id - assumed 'store_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [8] Use of undefined constant store_id - assumed 'store_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+NOTIC: [8] Use of undefined constant store_id - assumed 'store_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [8] Use of undefined constant store_id - assumed 'store_id' /www/wwwroot/wanplmsh/shiyan/Application/Runtime/Cache/Mobile/3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2019-03-05T11:33:49+08:00 ] 127.0.0.1 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\2345Downloads\www\shiyan\Application\Common\Common\common.php 第 1271 行.
+NOTIC: [8] Undefined variable: arr D:\2345Downloads\www\shiyan\Application\Common\Common\common.php 第 1283 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\2345Downloads\www\shiyan\Application\Common\Common\common.php 第 1283 行.
+NOTIC: [8] Undefined variable: tree D:\2345Downloads\www\shiyan\Application\Common\Common\common.php 第 1289 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\2345Downloads\www\shiyan\Application\Common\Common\common.php 第 1289 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\2345Downloads\www\shiyan\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [2] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Mobile\Controller\IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-03-05T11:36:22+08:00 ] 127.0.0.1 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Mobile\Controller\IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-05T13:06:23+08:00 ] 127.0.0.1 /index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Mobile\Controller\IndexController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 2 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 8 行.
+NOTIC: [2] Use of undefined constant goods_id - assumed 'goods_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\128b35d43d3e0ad657b4bc12a99d4803.php 第 11 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-03-05T14:38:31+08:00 ] 127.0.0.1 /index.php?m=Mobile&c=Index&a=ajaxStreetList&p=1&sc_id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Use of undefined constant TPSHOP_CACHE_TIME - assumed 'TPSHOP_CACHE_TIME' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Mobile\Model\StoreModel.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-05T14:57:14+08:00 ] 127.0.0.1 /index.php?m=Mobile&c=Index&a=ajaxStreetList&p=1&sc_id=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Use of undefined constant TPSHOP_CACHE_TIME - assumed 'TPSHOP_CACHE_TIME' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Mobile\Model\StoreModel.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 3 行.
+NOTIC: [2] Use of undefined constant store_id - assumed 'store_id' (this will throw an Error in a future version of PHP) D:\2345Downloads\www\shiyan\Application\Runtime\Cache\Mobile\3336249a2b2ea9cb9f032d9daf6265a7.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,67 @@
+[ 2019-03-04T09:00:25+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Admin&a=login&t=0.9828894177859668
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 43 行.
+
+[ 2019-03-04T09:00:43+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Admin&a=login&t=0.09337477005126726
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 43 行.
+
+[ 2019-03-04T09:01:07+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Admin&a=login&t=0.34051506443994284
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 43 行.
+
+[ 2019-03-04T09:25:46+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/add_rush.html
+ERR: 模板不存在:./Application/Seller/View/Promotion/add_rush.html
+
+[ 2019-03-04T09:56:20+08:00 ] 140.207.74.250 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
+[ 2019-03-04T09:57:47+08:00 ] 140.207.74.250 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
+[ 2019-03-04T10:15:03+08:00 ] 140.207.74.250 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
+[ 2019-03-04T10:15:06+08:00 ] 140.207.74.250 /index.php/Seller/Index/dingdan.html
+ERR: 模板不存在:./Application/Seller/View/Index/dingdan.html
+
+[ 2019-03-04T10:15:14+08:00 ] 140.207.74.250 /index.php/Seller/Index/tongji.html
+ERR: 模板不存在:./Application/Seller/View/Index/tongji.html
+
+[ 2019-03-04T10:15:16+08:00 ] 140.207.74.250 /index.php/Seller/Index/zhanghao.html
+ERR: 模板不存在:./Application/Seller/View/Index/zhanghao.html
+
+[ 2019-03-04T10:15:18+08:00 ] 140.207.74.250 /index.php/Seller/Index/caiwu.html
+ERR: 模板不存在:./Application/Seller/View/Index/caiwu.html
+
+[ 2019-03-04T10:15:21+08:00 ] 140.207.74.250 /index.php/Seller/Index/shuma.html
+ERR: 模板不存在:./Application/Seller/View/Index/shuma.html
+
+[ 2019-03-04T10:15:25+08:00 ] 140.207.74.250 /index.php/Seller/woyao/zhuyishixiang
+ERR: 无法加载控制器:Woyao
+
+[ 2019-03-04T10:15:30+08:00 ] 140.207.74.250 /index.php/Seller/Index/card.html
+ERR: 非法操作:card
+
+[ 2019-03-04T10:27:51+08:00 ] 140.207.74.250 /index.php/Seller/Promotion/prom_order_info.html
+ERR: 非法操作:prom_order_info
+
+[ 2019-03-04T12:02:39+08:00 ] 140.207.74.250 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
+[ 2019-03-04T18:20:13+08:00 ] 112.64.68.170 /index.php?m=Seller&c=Admin&a=login&t=0.1226394119602261
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 42 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 43 行.
+

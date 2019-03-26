@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			.upimage{
+				width: 79px;
+			    height: 79px;
+			    background: no-repeat 50%;
+			    background-size: cover;
+			}
+			ul{
+				list-style: none;
+			
+			}
+		</style>
+	</head>
+	<body>
+		<ul id="uploaderFilesBanner"></ul><input id="uploaderInputBanner" type="file" accept="image/*" capture="camera" />
+	</body>
+</html>
+<script src="__PUBLIC__/js/jquery-1.10.2.min.js"></script>
+<script>
+	var tmpl = '<li class="upimage" style="background-image:url(#url#)"></li>',
+			$uploaderInputBanner = $("#uploaderInputBanner"),
+		$uploaderFilesBanner = $("#uploaderFilesBanner");
+	
+	$uploaderInputBanner.on("change", function(e) {
+		var src, url = window.URL || window.webkitURL || window.mozURL,
+			files = e.target.files;
+		for (var i = 0, len = files.length; i < len; ++i) {
+			var file = files[i];
+	
+			if (url) {
+				src = url.createObjectURL(file);
+				$uploaderFilesBanner.append($(tmpl.replace('#url#', src)));
+			} else {
+				//					src = e.target.result;
+				var album = e.target.result;
+				$uploaderFilesBanner.append($(tmpl.replace('#url#', album)));
+			}
+	
+		}
+	});
+</script>

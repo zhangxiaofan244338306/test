@@ -1,0 +1,58 @@
+[ 2019-01-23T17:06:33+08:00 ] 140.207.74.250 /index.php?m=Api&controller=index&action=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: favourite_goods /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 47 行.
+
+[ 2019-01-23T17:09:11+08:00 ] 103.214.85.219 /index.php?m=Api&controller=index&action=index,token:f0ae4e3832e25f5cef47e426fc073af6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: controller /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: action /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 31 行.
+NOTIC: [8] Undefined index: token /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 35 行.
+
+[ 2019-01-23T17:10:29+08:00 ] 103.214.85.219 /index.php?m=Api&controller=index&action=index,token:f0ae4e3832e25f5cef47e426fc073af6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: controller /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: action /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 31 行.
+NOTIC: [8] Undefined index: token /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 35 行.
+
+[ 2019-01-23T17:11:40+08:00 ] 103.214.85.219 /index.php?m=Api&controller=index&action=index,token:f0ae4e3832e25f5cef47e426fc073af6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: controller /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: action /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 31 行.
+NOTIC: [8] Undefined index: token /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 35 行.
+
+[ 2019-01-23T17:19:55+08:00 ] 103.214.85.219 /index.php?m=Api&controller=index&action=index,token:f0ae4e3832e25f5cef47e426fc073af6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: controller /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: action /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 31 行.
+NOTIC: [8] Undefined index: token /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 35 行.
+
+[ 2019-01-23T17:20:49+08:00 ] 103.214.85.219 /index.php?m=Api&controller=index&action=index,token:f0ae4e3832e25f5cef47e426fc073af6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant PLMSHOP_CACHE_TIME - assumed 'PLMSHOP_CACHE_TIME' /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: controller /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Undefined index: action /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 31 行.
+NOTIC: [8] Undefined index: token /www/wwwroot/wanplmsh/shiyan/Application/Api/Controller/IndexController.class.php 第 35 行.
+

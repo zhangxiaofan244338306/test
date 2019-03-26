@@ -1,0 +1,55 @@
+[ 2019-02-22T09:16:29+08:00 ] 223.104.5.200 /index.php/Seller/woyao/zhuyishixiang
+ERR: 无法加载控制器:Woyao
+
+[ 2019-02-22T09:16:33+08:00 ] 223.104.5.200 /index.php/Seller/Index/card.html
+ERR: 非法操作:card
+
+[ 2019-02-22T09:55:36+08:00 ] 223.104.5.200 /index.php/Seller/woyao/zhuyishixiang
+ERR: 无法加载控制器:Woyao
+
+[ 2019-02-22T11:02:01+08:00 ] 140.207.74.250 /index.php/seller/Index/index.html
+ERR: Think\Controller:pushVersion方法不存在！
+
+[ 2019-02-22T11:02:25+08:00 ] 140.207.74.250 /index.php/seller/Index/index.html
+ERR: Think\Controller:pushVersion方法不存在！
+
+[ 2019-02-22T11:02:28+08:00 ] 140.207.74.250 /index.php/seller/Index/index.html
+ERR: Think\Controller:pushVersion方法不存在！
+
+[ 2019-02-22T11:02:29+08:00 ] 140.207.74.250 /index.php/seller/Index/index.html
+ERR: Think\Controller:pushVersion方法不存在！
+
+[ 2019-02-22T11:02:30+08:00 ] 140.207.74.250 /index.php/seller/Index/index.html
+ERR: Think\Controller:pushVersion方法不存在！
+
+[ 2019-02-22T11:20:45+08:00 ] 223.104.5.200 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
+[ 2019-02-22T11:23:20+08:00 ] 140.207.74.250 /index.php/seller/Index/login.html
+ERR: 非法操作:login
+
+[ 2019-02-22T13:54:56+08:00 ] 140.207.74.250 /index.php/Seller/woyao/zhuyishixiang
+ERR: 无法加载控制器:Woyao
+
+[ 2019-02-22T14:55:54+08:00 ] 140.207.74.250 /index.php/seller/Index/index.
+ERR: 非法操作:index.
+
+[ 2019-02-22T15:55:03+08:00 ] 223.104.210.224 /index.php?m=Seller&c=Admin&a=login&t=0.8566349470465477
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2] file_get_contents(/www/wwwroot/wanplmsh/shiyan//Application/Admin/Conf/version.txt): failed to open stream: No such file or directory /www/wwwroot/wanplmsh/shiyan/Application/Admin/Logic/UpgradeLogic.class.php 第 22 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 40 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 41 行.
+
+[ 2019-02-22T15:56:14+08:00 ] 140.207.74.250 /index.php?m=Seller&c=Admin&a=login&t=0.12323623991129296
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [2] file_get_contents(/www/wwwroot/wanplmsh/shiyan//Application/Admin/Conf/version.txt): failed to open stream: No such file or directory /www/wwwroot/wanplmsh/shiyan/Application/Admin/Logic/UpgradeLogic.class.php 第 22 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 40 行.
+NOTIC: [8] Undefined index: seller/admin /www/wwwroot/wanplmsh/shiyan/Application/Seller/Common/function.php 第 41 行.
+
+[ 2019-02-22T16:16:47+08:00 ] 140.207.74.250 /index.php/Seller/Index/shangpin.html
+ERR: 模板不存在:./Application/Seller/View/Index/shangpin.html
+
